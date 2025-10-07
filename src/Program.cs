@@ -8,6 +8,8 @@ using Blazored.Toast;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
 
+// Test comment added
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
