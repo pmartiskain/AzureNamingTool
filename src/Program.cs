@@ -9,6 +9,7 @@ using Microsoft.OpenApi.Models;
 using System.Reflection;
 
 // Test comment added
+// Test comment 2.
 
 var builder = WebApplication.CreateBuilder(args);
 
